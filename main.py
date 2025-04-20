@@ -1,6 +1,6 @@
 from direction import waypo_to_geo, total_distance, total_duration , way_points
 from geo_help import get_name_from_geolocation
-from web import web
+from weather import web
 
 import time
 
