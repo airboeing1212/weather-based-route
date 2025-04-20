@@ -1,0 +1,459 @@
+{
+    "geocoding": {
+        "version": "0.2",
+        "attribution": "https://openrouteservice.org/terms-of-service/#attribution-geocode",
+        "query": {
+            "size": 10,
+            "private": false,
+            "point.lat": 40.9185,
+            "point.lon": 29.1352,
+            "boundary.circle.lat": 40.9185,
+            "boundary.circle.lon": 29.1352,
+            "lang": {
+                "name": "English",
+                "iso6391": "en",
+                "iso6393": "eng",
+                "via": "default",
+                "defaulted": true
+            },
+            "querySize": 20
+        },
+        "engine": {
+            "name": "Pelias",
+            "author": "Mapzen",
+            "version": "1.0"
+        },
+        "timestamp": 1744212874200
+    },
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.135138,
+                    40.918663
+                ]
+            },
+            "properties": {
+                "id": "polyline:13109073",
+                "gid": "openstreetmap:street:polyline:13109073",
+                "layer": "street",
+                "source": "openstreetmap",
+                "source_id": "polyline:13109073",
+                "name": "\u015eehit Turan Emeksiz Soka\u011f\u0131",
+                "street": "\u015eehit Turan Emeksiz Soka\u011f\u0131",
+                "confidence": 0.8,
+                "distance": 0.019,
+                "accuracy": "centroid",
+                "country": "Turkey",
+                "country_gid": "whosonfirst:country:85632393",
+                "country_a": "TUR",
+                "region": "Istanbul",
+                "region_gid": "whosonfirst:region:85679237",
+                "region_a": "IB",
+                "county": "Fatih",
+                "county_gid": "whosonfirst:county:1108709503",
+                "county_a": "FA",
+                "locality": "Istanbul",
+                "locality_gid": "whosonfirst:locality:890460455",
+                "neighbourhood": "Yali",
+                "neighbourhood_gid": "whosonfirst:neighbourhood:85930179",
+                "continent": "Asia",
+                "continent_gid": "whosonfirst:continent:102191569",
+                "label": "\u015eehit Turan Emeksiz Soka\u011f\u0131, Istanbul, Turkey"
+            },
+            "bbox": [
+                29.134761,
+                40.918026,
+                29.135515,
+                40.919299
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.134308,
+                    40.918157
+                ]
+            },
+            "properties": {
+                "id": "node/4858344027",
+                "gid": "openstreetmap:venue:node/4858344027",
+                "layer": "venue",
+                "source": "openstreetmap",
+                "source_id": "node/4858344027",
+                "name": "B\u0130M",
+                "confidence": 0.8,
+                "distance": 0.084,
+                "accuracy": "point",
+                "country": "Turkey",
+                "country_gid": "whosonfirst:country:85632393",
+                "country_a": "TUR",
+                "region": "Istanbul",
+                "region_gid": "whosonfirst:region:85679237",
+                "region_a": "IB",
+                "county": "Fatih",
+                "county_gid": "whosonfirst:county:1108709503",
+                "county_a": "FA",
+                "locality": "Istanbul",
+                "locality_gid": "whosonfirst:locality:890460455",
+                "neighbourhood": "Yali",
+                "neighbourhood_gid": "whosonfirst:neighbourhood:85930179",
+                "continent": "Asia",
+                "continent_gid": "whosonfirst:continent:102191569",
+                "label": "B\u0130M, Istanbul, Turkey",
+                "addendum": {
+                    "osm": {
+                        "brand": "B\u0130M"
+                    }
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.134354,
+                    40.918999
+                ]
+            },
+            "properties": {
+                "id": "polyline:13113486",
+                "gid": "openstreetmap:street:polyline:13113486",
+                "layer": "street",
+                "source": "openstreetmap",
+                "source_id": "polyline:13113486",
+                "name": "\u015eehit Ali \u0130hsan Soka\u011f\u0131",
+                "street": "\u015eehit Ali \u0130hsan Soka\u011f\u0131",
+                "confidence": 0.8,
+                "distance": 0.09,
+                "accuracy": "centroid",
+                "country": "Turkey",
+                "country_gid": "whosonfirst:country:85632393",
+                "country_a": "TUR",
+                "region": "Istanbul",
+                "region_gid": "whosonfirst:region:85679237",
+                "region_a": "IB",
+                "county": "Fatih",
+                "county_gid": "whosonfirst:county:1108709503",
+                "county_a": "FA",
+                "locality": "Istanbul",
+                "locality_gid": "whosonfirst:locality:890460455",
+                "neighbourhood": "Yali",
+                "neighbourhood_gid": "whosonfirst:neighbourhood:85930179",
+                "continent": "Asia",
+                "continent_gid": "whosonfirst:continent:102191569",
+                "label": "\u015eehit Ali \u0130hsan Soka\u011f\u0131, Istanbul, Turkey"
+            },
+            "bbox": [
+                29.133939,
+                40.918397,
+                29.134769,
+                40.9196
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.135147,
+                    40.919448
+                ]
+            },
+            "properties": {
+                "id": "polyline:13109067",
+                "gid": "openstreetmap:street:polyline:13109067",
+                "layer": "street",
+                "source": "openstreetmap",
+                "source_id": "polyline:13109067",
+                "name": "G\u00fcrsel Soka\u011f\u0131",
+                "street": "G\u00fcrsel Soka\u011f\u0131",
+                "confidence": 0.7,
+                "distance": 0.106,
+                "accuracy": "centroid",
+                "country": "Turkey",
+                "country_gid": "whosonfirst:country:85632393",
+                "country_a": "TUR",
+                "region": "Istanbul",
+                "region_gid": "whosonfirst:region:85679237",
+                "region_a": "IB",
+                "county": "Fatih",
+                "county_gid": "whosonfirst:county:1108709503",
+                "county_a": "FA",
+                "locality": "Istanbul",
+                "locality_gid": "whosonfirst:locality:890460455",
+                "neighbourhood": "Yali",
+                "neighbourhood_gid": "whosonfirst:neighbourhood:85930179",
+                "continent": "Asia",
+                "continent_gid": "whosonfirst:continent:102191569",
+                "label": "G\u00fcrsel Soka\u011f\u0131, Istanbul, Turkey"
+            },
+            "bbox": [
+                29.133592,
+                40.91882,
+                29.136706,
+                40.920081
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.133945,
+                    40.91833
+                ]
+            },
+            "properties": {
+                "id": "node/4858344026",
+                "gid": "openstreetmap:venue:node/4858344026",
+                "layer": "venue",
+                "source": "openstreetmap",
+                "source_id": "node/4858344026",
+                "name": "Ercan Bakkal",
+                "confidence": 0.7,
+                "distance": 0.107,
+                "accuracy": "point",
+                "country": "Turkey",
+                "country_gid": "whosonfirst:country:85632393",
+                "country_a": "TUR",
+                "region": "Istanbul",
+                "region_gid": "whosonfirst:region:85679237",
+                "region_a": "IB",
+                "county": "Fatih",
+                "county_gid": "whosonfirst:county:1108709503",
+                "county_a": "FA",
+                "locality": "Istanbul",
+                "locality_gid": "whosonfirst:locality:890460455",
+                "neighbourhood": "Yali",
+                "neighbourhood_gid": "whosonfirst:neighbourhood:85930179",
+                "continent": "Asia",
+                "continent_gid": "whosonfirst:continent:102191569",
+                "label": "Ercan Bakkal, Istanbul, Turkey"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.133885,
+                    40.918456
+                ]
+            },
+            "properties": {
+                "id": "node/5766323254",
+                "gid": "openstreetmap:venue:node/5766323254",
+                "layer": "venue",
+                "source": "openstreetmap",
+                "source_id": "node/5766323254",
+                "name": "Migros",
+                "confidence": 0.7,
+                "distance": 0.111,
+                "accuracy": "point",
+                "country": "Turkey",
+                "country_gid": "whosonfirst:country:85632393",
+                "country_a": "TUR",
+                "region": "Istanbul",
+                "region_gid": "whosonfirst:region:85679237",
+                "region_a": "IB",
+                "county": "Fatih",
+                "county_gid": "whosonfirst:county:1108709503",
+                "county_a": "FA",
+                "locality": "Istanbul",
+                "locality_gid": "whosonfirst:locality:890460455",
+                "neighbourhood": "Yali",
+                "neighbourhood_gid": "whosonfirst:neighbourhood:85930179",
+                "continent": "Asia",
+                "continent_gid": "whosonfirst:continent:102191569",
+                "label": "Migros, Istanbul, Turkey",
+                "addendum": {
+                    "osm": {
+                        "brand": "Migros"
+                    }
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.134458,
+                    40.917631
+                ]
+            },
+            "properties": {
+                "id": "polyline:28537805",
+                "gid": "openstreetmap:street:polyline:28537805",
+                "layer": "street",
+                "source": "openstreetmap",
+                "source_id": "polyline:28537805",
+                "name": "Doktor Sad\u0131k Ahmet Bulvar\u0131",
+                "street": "Doktor Sad\u0131k Ahmet Bulvar\u0131",
+                "confidence": 0.7,
+                "distance": 0.115,
+                "accuracy": "centroid",
+                "country": "Turkey",
+                "country_gid": "whosonfirst:country:85632393",
+                "country_a": "TUR",
+                "region": "Istanbul",
+                "region_gid": "whosonfirst:region:85679237",
+                "region_a": "IB",
+                "county": "Fatih",
+                "county_gid": "whosonfirst:county:1108709503",
+                "county_a": "FA",
+                "locality": "Istanbul",
+                "locality_gid": "whosonfirst:locality:890460455",
+                "neighbourhood": "Yali",
+                "neighbourhood_gid": "whosonfirst:neighbourhood:85930179",
+                "continent": "Asia",
+                "continent_gid": "whosonfirst:continent:102191569",
+                "label": "Doktor Sad\u0131k Ahmet Bulvar\u0131, Istanbul, Turkey"
+            },
+            "bbox": [
+                29.133314,
+                40.916638,
+                29.134761,
+                40.918026
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.134516,
+                    40.9176
+                ]
+            },
+            "properties": {
+                "id": "polyline:13113677",
+                "gid": "openstreetmap:street:polyline:13113677",
+                "layer": "street",
+                "source": "openstreetmap",
+                "source_id": "polyline:13113677",
+                "name": "Tuna Soka\u011f\u0131",
+                "street": "Tuna Soka\u011f\u0131",
+                "confidence": 0.7,
+                "distance": 0.116,
+                "accuracy": "centroid",
+                "country": "Turkey",
+                "country_gid": "whosonfirst:country:85632393",
+                "country_a": "TUR",
+                "region": "Istanbul",
+                "region_gid": "whosonfirst:region:85679237",
+                "region_a": "IB",
+                "county": "Fatih",
+                "county_gid": "whosonfirst:county:1108709503",
+                "county_a": "FA",
+                "locality": "Istanbul",
+                "locality_gid": "whosonfirst:locality:890460455",
+                "neighbourhood": "Yali",
+                "neighbourhood_gid": "whosonfirst:neighbourhood:85930179",
+                "continent": "Asia",
+                "continent_gid": "whosonfirst:continent:102191569",
+                "label": "Tuna Soka\u011f\u0131, Istanbul, Turkey"
+            },
+            "bbox": [
+                29.133635,
+                40.917242,
+                29.135411,
+                40.917978
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.136507,
+                    40.918089
+                ]
+            },
+            "properties": {
+                "id": "polyline:13109066",
+                "gid": "openstreetmap:street:polyline:13109066",
+                "layer": "street",
+                "source": "openstreetmap",
+                "source_id": "polyline:13109066",
+                "name": "Esma Soka\u011f\u0131",
+                "street": "Esma Soka\u011f\u0131",
+                "confidence": 0.7,
+                "distance": 0.119,
+                "accuracy": "centroid",
+                "country": "Turkey",
+                "country_gid": "whosonfirst:country:85632393",
+                "country_a": "TUR",
+                "region": "Istanbul",
+                "region_gid": "whosonfirst:region:85679237",
+                "region_a": "IB",
+                "county": "Fatih",
+                "county_gid": "whosonfirst:county:1108709503",
+                "county_a": "FA",
+                "locality": "Istanbul",
+                "locality_gid": "whosonfirst:locality:890460455",
+                "neighbourhood": "Yali",
+                "neighbourhood_gid": "whosonfirst:neighbourhood:85930179",
+                "continent": "Asia",
+                "continent_gid": "whosonfirst:continent:102191569",
+                "label": "Esma Soka\u011f\u0131, Istanbul, Turkey"
+            },
+            "bbox": [
+                29.136315,
+                40.917357,
+                29.136706,
+                40.91882
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.133741,
+                    40.918417
+                ]
+            },
+            "properties": {
+                "id": "node/4858343232",
+                "gid": "openstreetmap:venue:node/4858343232",
+                "layer": "venue",
+                "source": "openstreetmap",
+                "source_id": "node/4858343232",
+                "name": "\u00c7ayirlar Bakkal",
+                "confidence": 0.7,
+                "distance": 0.123,
+                "accuracy": "point",
+                "country": "Turkey",
+                "country_gid": "whosonfirst:country:85632393",
+                "country_a": "TUR",
+                "region": "Istanbul",
+                "region_gid": "whosonfirst:region:85679237",
+                "region_a": "IB",
+                "county": "Fatih",
+                "county_gid": "whosonfirst:county:1108709503",
+                "county_a": "FA",
+                "locality": "Istanbul",
+                "locality_gid": "whosonfirst:locality:890460455",
+                "neighbourhood": "Yali",
+                "neighbourhood_gid": "whosonfirst:neighbourhood:85930179",
+                "continent": "Asia",
+                "continent_gid": "whosonfirst:continent:102191569",
+                "label": "\u00c7ayirlar Bakkal, Istanbul, Turkey"
+            }
+        }
+    ],
+    "bbox": [
+        29.133314,
+        40.916638,
+        29.136706,
+        40.920081
+    ]
+}
