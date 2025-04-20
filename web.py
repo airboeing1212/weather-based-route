@@ -10,8 +10,7 @@ def web(lat,long):
         "longitude": long,
         "current_weather": True,
         "hourly": "temperature_2m,precipitation,visibility",
-        "forecast_hours" : 6
-        
+        "forecast_hours" : 6        
     }
 
 
@@ -26,12 +25,8 @@ def web(lat,long):
 
     visibilit = [i/1000 for i in visibility ]
 
-    with open("can.json", "w") as f:
-        json.dump(data, f, indent=4)
-    
-
- 
-
+    '''with open("weather.json", "w") as f:
+        json.dump(data, f, indent=4)'''
 
     return temp , prec, visibilit
 
