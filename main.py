@@ -32,7 +32,7 @@ for a, i in enumerate(geoloc):
 
     for b in range(50):
         if b < total_tim < b + 1 :
-            print(f" you are in {b}. hour")
+            print(f" you are in hour {b}")
             break
 
     long, lat = i
