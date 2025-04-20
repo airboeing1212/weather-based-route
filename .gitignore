@@ -1,3 +1,5 @@
 venv/
 
 json_files/
+
+__pycache__/
